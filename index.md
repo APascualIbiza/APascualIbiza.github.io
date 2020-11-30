@@ -8,4 +8,4 @@ You are kind, ..................................................................
 > As you always say:
 > Step by step
 
-![some image](/SAPIENS.jpeg)
+![some image](/images/SAPIENS.jpeg)
